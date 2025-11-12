@@ -1,4 +1,3 @@
-
 # 🎨 [IPE] Figuras vetorizadas para LaTeX 📐
 
 ## ✨ Visão Geral do Projeto
